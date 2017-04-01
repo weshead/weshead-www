@@ -1,2 +1,0 @@
-# weshead-www
-website
